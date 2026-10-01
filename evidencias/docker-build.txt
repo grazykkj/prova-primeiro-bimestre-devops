@@ -1,0 +1,5 @@
+﻿
+prova-primeiro-bimestre-devops-api:latest                   b2eb8df35e45        200MB         
+49.2MB   U    
+
+
