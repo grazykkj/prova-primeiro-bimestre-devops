@@ -1,0 +1,3 @@
+...module.vpc.aws_vpc.main: Destruction complete after 1s
+
+Destroy complete! Resources: 14 destroyed.

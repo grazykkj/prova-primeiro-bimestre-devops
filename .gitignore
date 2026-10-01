@@ -5,3 +5,6 @@ node_modules/
 *.tfstate.backup
 *.pem
 .DS_Store
+*.binary
+tfplan*
+.terraform.lock.hcl

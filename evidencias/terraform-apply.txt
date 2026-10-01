@@ -1,0 +1,7 @@
+Apply complete! Resources: 14 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+api_url = "http://54.209.253.56:3000"
+ec2_public_ip = "54.209.253.56"
+rds_endpoint = "terraform-20261001043330234000000002.cgkhrpwtz9t8.us-east-1.rds.amazonaws.com:5432"
